@@ -1,3 +1,4 @@
+```
 src/
 ├── domain/
 │   ├── entities/
@@ -42,3 +43,4 @@ src/
 ├── index.ts                            <-- Application entry point
 ├── tsconfig.json
 └── package.json
+```
